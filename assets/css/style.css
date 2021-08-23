@@ -120,7 +120,7 @@ body {
     /* min-height: 500px;
     background-color: #333; */
     padding-top: 50%;
-    background: url('https://chaunguyen125.github.io/TheBandRemake/assets/img/intro1cut.jpg') top center / cover no-repeat;
+    background: url('../img/intro1cut.jpg') top center / cover no-repeat;
     position: relative;
 }
 
