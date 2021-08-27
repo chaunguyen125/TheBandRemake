@@ -1,0 +1,136 @@
+/* ?Tablet */
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
+    #footer .social-list a {
+        font-size: 48px;
+        margin-right: 16px;
+    }
+
+
+}
+/* Tablet & Mobile */
+
+
+@media(max-width: 63.9375em) {
+    .place-buy-btn {
+        padding: 15px 16px;
+    }
+
+    #nav li a {
+        padding: 1px 24px;
+    }
+
+    .place-ticket {
+        padding: 16px 16px;
+    }
+
+    .contact-form .contact-control{
+        padding: 14px 10px;
+    }
+
+    .contact-form .contact-send {
+        padding: 15px 16px;
+    }
+
+    .contact-local {
+        line-height: 2;
+    }
+
+    #footer .copyright a {
+        padding: 16px 0;
+        display: inline-block;
+    }
+
+    #footer .social-list a {
+        margin: 0 8px;
+    }
+
+    #nav .subnav a {
+        padding: 5px 24px;
+    }
+   
+}
+
+
+
+@media(max-width: 46.1875em) {
+
+
+    .s-mt-8 {
+        margin-top: 8px !important;
+    }
+
+    .s-col-width,
+    .s-col-full {
+        width: 100%;
+    }
+
+    #nav {
+        display: block;
+    }
+
+    #header {
+        overflow: hidden;
+    }
+
+    #nav > li:first-child {
+        display: inline-block;
+    }
+
+    #nav > li > a {
+        display: block;
+    }
+
+    #nav  li  a {
+        padding: 1px 24px;
+    }
+    
+    #nav > li {
+        display: block;
+    }
+
+    #header .search-btn {
+        display: none;
+    }
+
+    #header .mobile-menu-btn {
+        display: block;
+    }
+
+    #nav .subnav {
+        position: initial;
+
+    }
+
+    #nav .subnav a {
+        padding: 5px 63px;
+    }
+
+    #nav .subnav > li {
+        border: 1px solid #ccc;
+    }
+
+    #content .moblie-member-avatar {
+        width: 50%;
+    }
+
+    #content .moblie-member-avatar-2 {
+        left: 119px;
+        width: 50%;
+        top: 42px;
+    }
+
+    .contact-form {
+        margin-top: 32px;
+
+    }
+
+    .contact-form .contact-send {
+        margin-right: 0px;
+    }
+
+    #footer .social-list a {
+        font-size: 30px;
+        margin-right: 16px;
+    }
+    
+}
