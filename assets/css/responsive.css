@@ -25,10 +25,12 @@
 
     .contact-form .contact-control{
         padding: 14px 10px;
+        font-size: 16px;
     }
 
     .contact-form .contact-send {
         padding: 15px 16px;
+        font-size: 16px;
     }
 
     .contact-local {
